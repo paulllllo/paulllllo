@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **paulkelechi11@gmail.com**
 
-- ⚡ Fun fact **I believe I can do anything**
+- ⚡ Fun fact **Lowkey, there's nothing I can't do**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
