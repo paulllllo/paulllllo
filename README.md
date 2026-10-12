@@ -4,19 +4,19 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
-- 🔭 I’m currently working on **a portfolio site using threeJS and GSAP**
+- 🔭 I’m currently renovating **my portfolio site using threeJS and GSAP**
 
-- 🌱 I’m currently learning **ThreeJS, GSAP, MongoDB**
+- 🌱 I’m currently learning **optimized agentic flows**
 
-- 👯 I’m looking to collaborate on **Interesting Projects spanning from frontend with ReactJS, NextJS etc. to backend using Flask, C, MySQL**
+- 👯 I’m looking to collaborate on **Interesting Projects spanning from frontend with ReactJS, NextJS etc. to backend using Python, Node, C, MySQL**
 
-- 📝 I regularly write articles on [www.medium.com/@paulkelechi11](www.medium.com/@paulkelechi11)
+- 📝 Recently lost my login for [www.medium.com/@paulkelechi11](www.medium.com/@paulkelechi11)
 
 - 💬 Ask me about **React, Python, Automation**
 
 - 📫 How to reach me **paulkelechi11@gmail.com**
 
-- ⚡ Fun fact **Lowkey, there's nothing I can't do**
+- ⚡ Fun fact **Lowkey, I'm batman**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
